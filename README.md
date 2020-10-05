@@ -1,1 +1,6 @@
-# towerelectricfan
+# 塔式电风扇
+
+* 结构组成：底座，中心转动轴，外壳。
+
+* ![风扇](picture/风扇.gif)
+
